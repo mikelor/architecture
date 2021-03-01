@@ -10,3 +10,7 @@ There are several problems with this approach:
 A Data Lake eliminates the restrictions of a typical data warehouse system by providing unlimited space, unrestricted file size, schema on read, and various ways to access data.
 
 A data lake does not replace the need for a data warehouse. Instead they are complementary, we can continue to leverage our existing investments while collecting data we have been ignoring or discarding, and ultimately enable analysts to obtain insights faster.
+
+## Links to Resources
+  1. [Azure Storage - Hitchhikers Guide to the Datalake](https://azurestorage.com/docs/analytics/hitchhikers-guide-to-the-datalake/#organizing-and-managing-data-in-your-data-lake)
+  2. [Azure CLI Storage - Managing Directories in Azure Datalake Storage](https://github.com/Azure/azure-cli/blob/dev/src/azure-cli/azure/cli/command_modules/storage/docs/ADLS%20Gen2.md#Manage-Directories-in-Azure-Data-Lake-Storage-Gen2-file-system)
